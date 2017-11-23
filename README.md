@@ -1,4 +1,4 @@
-# deeplearning.ai
+# Deeplearning.ai
 Here are some of the assignments of the course in deeplearning.ai.
 
 ## November 23rd
