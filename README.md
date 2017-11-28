@@ -12,3 +12,6 @@ I have uploaded the assignment.
 
 ## November 27th
 Actually, I finished courese yesterday, but the assignments was finish today. I learned how to use keras to build up my convolutional nerual network and I tried to estabulish a ResNet follow the Ng's instruction. I will finish the week 3's lecture this afternoon 
+
+## November 28th
+Finished the week3's study today about the image classification and localization. Uploaded the assignments this afternoon.
