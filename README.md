@@ -15,3 +15,4 @@ Actually, I finished courese yesterday, but the assignments was finish today. I 
 
 ## November 28th
 Finished the week3's study today about the image classification and localization. Uploaded the assignments this afternoon.
+The test process of YOLO algorithm cannot work well due to the absence of a model file, I'm not sure why it is missed, and cannot find another one to replace it. But I think I already know the basic idea of YOLO. Good luck for the following study 
