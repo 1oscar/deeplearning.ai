@@ -16,3 +16,11 @@ Actually, I finished courese yesterday, but the assignments was finish today. I 
 ## November 28th
 Finished the week3's study today about the image classification and localization. Uploaded the assignments this afternoon.
 The test process of YOLO algorithm cannot work well due to the absence of a model file, I'm not sure why it is missed, and cannot find another one to replace it. But I think I already know the basic idea of YOLO. Good luck for the following study 
+
+## November 30th 
+Finally, I finished the ConvNet study of deeplearning.ai. The assignments are too large to upload through the website. So I will try it few days later. 
+I'm going to pause updating this project due to the RNN is not updated. I will restart it when RNN course is open.
+
+## About the Note 
+I have write some notes during the lecture. And I will rewrite them and transform them into Markdown file and upload to this blog.  good luck. 
+
